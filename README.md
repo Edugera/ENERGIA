@@ -27,4 +27,4 @@ Education is in Mathematics at UNICAMP - State University of Campinas and a degr
 ## Projetos:
 
 
-* Analise de dados da evolução da carga desde abril de 2018 até agosto de 2020 com séries temporais:
+* Analysis of load evolution data from April 2018 to August 2020 with time series:
