@@ -1,4 +1,4 @@
-# ENERGY
+# ESTRATEGY OF TRADING
 Analysis of the databases of institutions related to electricity, such as ONS, EPE, ANEEL and etc.
 
 Projects in the electric power sector as application of the Data Science Na Prática Course Modules with Carlos Melo
