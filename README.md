@@ -29,3 +29,4 @@ Education is in Mathematics at UNICAMP - State University of Campinas and a degr
 
 
 * Analysis of load evolution data from April 2018 to August 2020 with time series:
+* Baseline da Previsão dos preços de gasolina: https://bit.ly/3q5p1KZ
